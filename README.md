@@ -31,10 +31,8 @@ By the end, you’ll have built your own machine learning pipeline and applied i
 
 ```text
 Introduction-to-Machine-Learning_Udacity/
-│── datasets/         # Data used for exercises
-│── tools/            # Helper scripts provided by Udacity
-│── mini_projects/    # Each lesson’s exercises
-│── final_project/    # Enron fraud detection project
+│── ud120-projects/    # Original Udacity starter code
+│── __pycache__/       # Python cache files (auto-generated)
 │── README.md
 │── LICENSE
 │── .gitignore
